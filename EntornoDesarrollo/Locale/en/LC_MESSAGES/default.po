@@ -1,0 +1,684 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ARPI v1.0\n"
+"POT-Creation-Date: 2005-04-16 19:42\n"
+"PO-Revision-Date: 2005-04-18 12:37-0300\n"
+"Last-Translator: Ezequiel Gonzalez Rial <gonrial@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: dxgettext 1.2\n"
+"Language-Team: SouthernBytes <sb@southernbytes.com.ar>\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: ARGENTINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#. fmConfigEntorno..Caption
+#: ufmConfigEntorno.dfm:6
+msgid "Configuración"
+msgstr "Configuration"
+
+#. fmConfigEntorno..Font.Name
+#. fmConfigProyecto..Font.Name
+#. fmConfigProyecto..PageControl1..TabSheet1..lvIdiomasProyecto..Font.Name
+#. fmEditorCodigo..Font.Name
+#. fmEditorPropiedades..Font.Name
+#. fmMensajes..Font.Name
+#. fmEntornoDesarrollo..Font.Name
+#. fmProyecto..Font.Name
+#. fmProyecto..PageControl1..TabSheet1..lvIdiomasProyecto..Font.Name
+#. fmShrinkPanel..Font.Name
+#. fmShrinkPanel..Panel2..btnIdiomas..HotTrackFont.Name
+#. fmShrinkPanel..Panel2..btnEjecutar..HotTrackFont.Name
+#. fmShrinkPanel..Panel2..btnGuardar..HotTrackFont.Name
+#. fmStringIdiomaDlg..Font.Name
+#. fmStringsIdiomaDlg..Font.Name
+#: ufmConfigEntorno.dfm:11
+#: ufmConfigProyecto.dfm:11
+#: ufmConfigProyecto.dfm:123
+#: ufmEditorCodigo.dfm:11
+#: ufmEditorPropiedades.dfm:14
+#: ufmMensajes.dfm:12
+#: uFmPrincipal.dfm:12
+#: ufmProyecto.dfm:11
+#: ufmProyecto.dfm:123
+#: ufmShrinkPanel.dfm:13
+#: ufmShrinkPanel.dfm:159
+#: ufmShrinkPanel.dfm:191
+#: ufmShrinkPanel.dfm:219
+#: ufmStringIdiomaDlg.dfm:15
+#: ufmStringsIdiomaDlg.dfm:14
+msgid "MS Sans Serif"
+msgstr ""
+
+#. fmConfigEntorno..pcConfiguracion..tsGeneral..Caption
+#: ufmConfigEntorno.dfm:25
+msgid "Configuración General"
+msgstr "General Configuration"
+
+#. fmConfigEntorno..pcConfiguracion..tsGeneral..lbDirectorioTrabajo..Caption
+#: ufmConfigEntorno.dfm:34
+msgid "Directorio de Trabajo:"
+msgstr "Working Directory:"
+
+#. fmConfigEntorno..pcConfiguracion..tsGeneral..lbIdiomaEntorno..Caption
+#: ufmConfigEntorno.dfm:41
+msgid "Idioma del Entorno:"
+msgstr "Enviroment Language:"
+
+#. fmConfigEntorno..pcConfiguracion..tsCompiladores..Caption
+#: ufmConfigEntorno.dfm:98
+msgid "Compiladores"
+msgstr "Compilers"
+
+#. fmConfigEntorno..pcConfiguracion..tsCompiladores..btNuevo..Caption
+#: ufmConfigEntorno.dfm:160
+msgid "&Nuevo"
+msgstr "&New"
+
+#. fmConfigEntorno..pcConfiguracion..tsCompiladores..btEliminar..Caption
+#. fmEntornoDesarrollo..acciones..aEliminar..Caption
+#: ufmConfigEntorno.dfm:170
+#: uFmPrincipal.dfm:1181
+msgid "&Eliminar"
+msgstr "&Delete"
+
+#. fmConfigProyecto..Caption
+#. fmProyecto..Caption
+#: ufmConfigProyecto.dfm:6
+#: ufmProyecto.dfm:6
+msgid "Configuración del Proyecto"
+msgstr "Project's Configuration"
+
+#. fmConfigProyecto..Panel1..BitBtn1..Caption
+#. fmProyecto..Panel1..BitBtn1..Caption
+#: ufmConfigProyecto.dfm:35
+#: ufmProyecto.dfm:35
+msgid "Aceptar"
+msgstr "OK"
+
+#. fmConfigProyecto..Panel1..BitBtn2..Caption
+#. fmProyecto..Panel1..BitBtn2..Caption
+#: ufmConfigProyecto.dfm:45
+#: ufmProyecto.dfm:45
+msgid "Cancelar"
+msgstr "Cancel"
+
+#. fmConfigProyecto..PageControl1..TabSheet1..Caption
+#. fmProyecto..PageControl1..TabSheet1..Caption
+#: ufmConfigProyecto.dfm:60
+#: ufmProyecto.dfm:60
+msgid "Datos Generales"
+msgstr "General Information"
+
+#. fmConfigProyecto..PageControl1..TabSheet1..Label1..Caption
+#. fmProyecto..PageControl1..TabSheet1..Label1..Caption
+#: ufmConfigProyecto.dfm:69
+#: ufmProyecto.dfm:69
+msgid "Lenguaje de Programación"
+msgstr "Programming Language"
+
+#. fmConfigProyecto..PageControl1..TabSheet1..Label2..Caption
+#. fmProyecto..PageControl1..TabSheet1..Label2..Caption
+#: ufmConfigProyecto.dfm:76
+#: ufmProyecto.dfm:76
+msgid "Idiomas del Proyecto"
+msgstr "Project's languages"
+
+#. fmConfigProyecto..PageControl1..TabSheet1..Label3..Caption
+#. fmProyecto..PageControl1..TabSheet1..Label3..Caption
+#: ufmConfigProyecto.dfm:83
+#: ufmProyecto.dfm:83
+msgid "Idiomas Disponibles"
+msgstr "Avaliable Languages"
+
+#. fmConfigProyecto..PageControl1..TabSheet1..lbNombre..Caption
+#. fmProyecto..PageControl1..TabSheet1..lbNombre..Caption
+#: ufmConfigProyecto.dfm:90
+#: ufmProyecto.dfm:90
+msgid "Nombre del Proyecto"
+msgstr "Project's Name"
+
+#. fmConfigProyecto..PageControl1..TabSheet1..Label4..Caption
+#. fmProyecto..PageControl1..TabSheet1..Label4..Caption
+#: ufmConfigProyecto.dfm:97
+#: ufmProyecto.dfm:97
+msgid "Idioma Predeterminado"
+msgstr "Predefined Languaje"
+
+#. fmConfigProyecto..PageControl1..TabSheet1..cbLenguaje..Text
+#. fmConfigProyecto..PageControl1..TabSheet1..cbLenguaje....Items.Strings
+#. fmProyecto..PageControl1..TabSheet1..cbLenguaje..Text
+#. fmProyecto..PageControl1..TabSheet1..cbLenguaje....Items.Strings
+#: ufmConfigProyecto.dfm:107
+#: ufmConfigProyecto.dfm:110
+#: ufmProyecto.dfm:107
+#: ufmProyecto.dfm:110
+msgid "Pascal"
+msgstr ""
+
+#. fmConfigProyecto..PageControl1..TabSheet1..cbLenguaje....Items.Strings
+#. fmProyecto..PageControl1..TabSheet1..cbLenguaje....Items.Strings
+#: ufmConfigProyecto.dfm:109
+#: ufmProyecto.dfm:109
+msgid "C"
+msgstr ""
+
+#. fmConfigProyecto..PageControl1..TabSheet1..btAgregar..Caption
+#. fmProyecto..PageControl1..TabSheet1..btAgregar..Caption
+#: ufmConfigProyecto.dfm:173
+#: ufmProyecto.dfm:180
+msgid "< &Agregar"
+msgstr "< &Add"
+
+#. fmConfigProyecto..PageControl1..TabSheet1..btQuitar..Caption
+#. fmProyecto..PageControl1..TabSheet1..btQuitar..Caption
+#: ufmConfigProyecto.dfm:182
+#: ufmProyecto.dfm:189
+msgid "&Quitar >"
+msgstr "&Remove >"
+
+#. fmConfigProyecto..PageControl1..TabSheet2..Caption
+#. fmProyecto..PageControl1..TabSheet2..Caption
+#: ufmConfigProyecto.dfm:200
+#: ufmProyecto.dfm:207
+msgid "Descripción del Proyecto"
+msgstr "Project's Description"
+
+#. fmConfigProyecto..PageControl1..TabSheet2..tcDescripcion....Tabs.Strings
+#. fmProyecto..PageControl1..TabSheet2..tcDescripcion....Tabs.Strings
+#: ufmConfigProyecto.dfm:211
+#: ufmProyecto.dfm:218
+msgid "Español"
+msgstr ""
+
+#. fmConfigProyecto..PageControl1..TabSheet2..tcDescripcion....Tabs.Strings
+#. fmProyecto..PageControl1..TabSheet2..tcDescripcion....Tabs.Strings
+#: ufmConfigProyecto.dfm:212
+#: ufmProyecto.dfm:219
+msgid "English"
+msgstr "English"
+
+#. fmConfigProyecto..PageControl1..TabSheet2..tcDescripcion..Label5....Height
+#. fmProyecto..PageControl1..TabSheet2..tcDescripcion..Label5....Height
+#: ufmConfigProyecto.dfm:223
+#: ufmProyecto.dfm:230
+msgid "El poyecto debe tener al menos un idioma para poder editar su descripción"
+msgstr "The project has to have at least one language to edit its description"
+
+#. fmEditorCodigo..Caption
+#: ufmEditorCodigo.dfm:6
+msgid "Código Fuente"
+msgstr "Source Code"
+
+#. fmEditorCodigo..editor..Completion.CaretChar
+#: ufmEditorCodigo.dfm:29
+msgid "|"
+msgstr ""
+
+#. fmEditorCodigo..editor..Completion.CRLF
+#: ufmEditorCodigo.dfm:30
+msgid "/n"
+msgstr ""
+
+#. fmEditorCodigo..editor..Completion.Separator
+#: ufmEditorCodigo.dfm:31
+msgid "="
+msgstr ""
+
+#. fmEditorCodigo..editor..TabStops
+#: ufmEditorCodigo.dfm:32
+msgid "3 5"
+msgstr ""
+
+#. fmEditorCodigo..editor..Font.Name
+#: ufmEditorCodigo.dfm:39
+msgid "Courier New"
+msgstr ""
+
+#. fmEditorPropiedades..Caption
+#: ufmEditorPropiedades.dfm:7
+msgid "Editor de Propiedades"
+msgstr "Properties Editor"
+
+#. fmMensajes..Caption
+#: ufmMensajes.dfm:7
+msgid "Mensajes"
+msgstr "Messages"
+
+#. fmEntornoDesarrollo..Caption
+#: uFmPrincipal.dfm:7
+msgid "ARPI - Entorno de Desarrollo - Prototipo"
+msgstr "ARPI - Development Enviroment - Prototipe"
+
+#. fmEntornoDesarrollo..BarraHerramientas..tbVer..Caption
+#: uFmPrincipal.dfm:42
+msgid "Ver"
+msgstr "View"
+
+#. fmEntornoDesarrollo..BarraHerramientas..tbPrincipal..Caption
+#: uFmPrincipal.dfm:158
+msgid "Principal"
+msgstr "Main"
+
+#. fmEntornoDesarrollo..diseniador..ClipboardFormat
+#: uFmPrincipal.dfm:1099
+msgid "Extension Library designer components"
+msgstr "Extension Library designer components"
+
+#. fmEntornoDesarrollo..acciones..aNuevo..Category
+#. fmEntornoDesarrollo..acciones..aAbrir..Category
+#. fmEntornoDesarrollo..acciones..aGuardar..Category
+#. fmEntornoDesarrollo..acciones..aCompilar..Category
+#. fmEntornoDesarrollo..acciones..aSalir..Category
+#. fmEntornoDesarrollo..menu..Archivo1..Caption
+#: uFmPrincipal.dfm:1114
+#: uFmPrincipal.dfm:1122
+#: uFmPrincipal.dfm:1130
+#: uFmPrincipal.dfm:1139
+#: uFmPrincipal.dfm:1154
+#: uFmPrincipal.dfm:1296
+msgid "&Archivo"
+msgstr "&File"
+
+#. fmEntornoDesarrollo..acciones..aNuevo..Caption
+#: uFmPrincipal.dfm:1115
+msgid "&Nuevo..."
+msgstr "&New..."
+
+#. fmEntornoDesarrollo..acciones..aNuevo..Hint
+#: uFmPrincipal.dfm:1116
+msgid "Nuevo Proyecto"
+msgstr "New Project"
+
+#. fmEntornoDesarrollo..acciones..aAbrir..Caption
+#: uFmPrincipal.dfm:1123
+msgid "A&brir..."
+msgstr "&Open..."
+
+#. fmEntornoDesarrollo..acciones..aAbrir..Hint
+#: uFmPrincipal.dfm:1124
+msgid "Abrir Proyecto"
+msgstr "Open Project"
+
+#. fmEntornoDesarrollo..acciones..aGuardar..Caption
+#. frmCompilador..btGuardar..Caption
+#: uFmPrincipal.dfm:1131
+#: ufrmCompilador.dfm:70
+msgid "&Guardar"
+msgstr "&Save"
+
+#. fmEntornoDesarrollo..acciones..aGuardar..Hint
+#: uFmPrincipal.dfm:1132
+msgid "Guardar Proyecto"
+msgstr "Save Project"
+
+#. fmEntornoDesarrollo..acciones..aCompilar..Caption
+#: uFmPrincipal.dfm:1140
+msgid "&Compilar Proyecto"
+msgstr "&Compile Project"
+
+#. fmEntornoDesarrollo..acciones..aCompilar..Hint
+#: uFmPrincipal.dfm:1141
+msgid "Compilar Proyecto"
+msgstr "Compile Project"
+
+#. fmEntornoDesarrollo..acciones..aConfProyecto..Category
+#. fmEntornoDesarrollo..acciones..aConfEntorno..Category
+#. fmEntornoDesarrollo..acciones..aCambiarVista..Category
+#. fmEntornoDesarrollo..menu..Ver1..Caption
+#: uFmPrincipal.dfm:1147
+#: uFmPrincipal.dfm:1184
+#: uFmPrincipal.dfm:1190
+#: uFmPrincipal.dfm:1344
+msgid "&Ver"
+msgstr "&View"
+
+#. fmEntornoDesarrollo..acciones..aConfProyecto..Caption
+#: uFmPrincipal.dfm:1148
+msgid "Configurar &Proyecto..."
+msgstr "&Project's Configuration..."
+
+#. fmEntornoDesarrollo..acciones..aSalir..Caption
+#: uFmPrincipal.dfm:1155
+msgid "&Salir"
+msgstr "&Exit"
+
+#. fmEntornoDesarrollo..acciones..aSalir..Hint
+#: uFmPrincipal.dfm:1156
+msgid "Salir|Sale de la Aplicación"
+msgstr "Exit|Terminate the Application"
+
+#. fmEntornoDesarrollo..acciones..aDeshacer..Category
+#. fmEntornoDesarrollo..acciones..aRehacer..Category
+#. fmEntornoDesarrollo..acciones..aCopiar..Category
+#. fmEntornoDesarrollo..acciones..aCortar..Category
+#. fmEntornoDesarrollo..acciones..aPegar..Category
+#. fmEntornoDesarrollo..acciones..aEliminar..Category
+#. fmEntornoDesarrollo..acciones..aAlinearGrilla..Category
+#: uFmPrincipal.dfm:1160
+#: uFmPrincipal.dfm:1164
+#: uFmPrincipal.dfm:1168
+#: uFmPrincipal.dfm:1172
+#: uFmPrincipal.dfm:1176
+#: uFmPrincipal.dfm:1180
+#: uFmPrincipal.dfm:1196
+msgid "&Edicion"
+msgstr "&Edition"
+
+#. fmEntornoDesarrollo..acciones..aDeshacer..Caption
+#: uFmPrincipal.dfm:1161
+msgid "&Deshacer"
+msgstr "&Undo"
+
+#. fmEntornoDesarrollo..acciones..aRehacer..Caption
+#: uFmPrincipal.dfm:1165
+msgid "&Rehacer"
+msgstr "&Redo"
+
+#. fmEntornoDesarrollo..acciones..aCopiar..Caption
+#: uFmPrincipal.dfm:1169
+msgid "&Copiar"
+msgstr "&Copy"
+
+#. fmEntornoDesarrollo..acciones..aCortar..Caption
+#: uFmPrincipal.dfm:1173
+msgid "Co&rtar"
+msgstr "C&ut"
+
+#. fmEntornoDesarrollo..acciones..aPegar..Caption
+#: uFmPrincipal.dfm:1177
+msgid "&Pegar"
+msgstr "&Paste"
+
+#. fmEntornoDesarrollo..acciones..aConfEntorno..Caption
+#: uFmPrincipal.dfm:1185
+msgid "Configurar &Entorno..."
+msgstr "En&viroment Configuration..."
+
+#. fmEntornoDesarrollo..acciones..aCambiarVista..Caption
+#: uFmPrincipal.dfm:1191
+msgid "Cambiar &Vista"
+msgstr "Change &View"
+
+#. fmEntornoDesarrollo..acciones..aAlinearGrilla..Caption
+#: uFmPrincipal.dfm:1197
+msgid "Ali&near a la grilla"
+msgstr "&Align to grid"
+
+#. fmEntornoDesarrollo..acciones..actALLeft..Category
+#. fmEntornoDesarrollo..acciones..actALRight..Category
+#. fmEntornoDesarrollo..acciones..actALTop..Category
+#. fmEntornoDesarrollo..acciones..actALBottom..Category
+#. fmEntornoDesarrollo..acciones..actALHSpace..Category
+#. fmEntornoDesarrollo..acciones..actALVSpace..Category
+#. fmEntornoDesarrollo..acciones..actALHCenter..Category
+#. fmEntornoDesarrollo..acciones..actALVCenter..Category
+#. fmEntornoDesarrollo..acciones..actALHCenterWindow..Category
+#. fmEntornoDesarrollo..acciones..actALVCenterWindow..Category
+#. fmEntornoDesarrollo..menu..Alinear2..Caption
+#: uFmPrincipal.dfm:1202
+#: uFmPrincipal.dfm:1211
+#: uFmPrincipal.dfm:1220
+#: uFmPrincipal.dfm:1229
+#: uFmPrincipal.dfm:1238
+#: uFmPrincipal.dfm:1247
+#: uFmPrincipal.dfm:1256
+#: uFmPrincipal.dfm:1265
+#: uFmPrincipal.dfm:1274
+#: uFmPrincipal.dfm:1283
+#: uFmPrincipal.dfm:1359
+msgid "A&linear"
+msgstr "&Align"
+
+#. fmEntornoDesarrollo..acciones..actALLeft..Caption
+#. fmEntornoDesarrollo..acciones..actALLeft..Hint
+#: uFmPrincipal.dfm:1203
+#: uFmPrincipal.dfm:1205
+msgid "Alinear a la izquierda"
+msgstr "Align left"
+
+#. fmEntornoDesarrollo..acciones..actALRight..Caption
+#. fmEntornoDesarrollo..acciones..actALRight..Hint
+#: uFmPrincipal.dfm:1212
+#: uFmPrincipal.dfm:1214
+msgid "Alinear a la derecha"
+msgstr "Align right"
+
+#. fmEntornoDesarrollo..acciones..actALTop..Caption
+#. fmEntornoDesarrollo..acciones..actALTop..Hint
+#: uFmPrincipal.dfm:1221
+#: uFmPrincipal.dfm:1223
+msgid "Alinear arriba"
+msgstr "Align top"
+
+#. fmEntornoDesarrollo..acciones..actALBottom..Caption
+#. fmEntornoDesarrollo..acciones..actALBottom..Hint
+#: uFmPrincipal.dfm:1230
+#: uFmPrincipal.dfm:1232
+msgid "Alinear abajo"
+msgstr "Align down"
+
+#. fmEntornoDesarrollo..acciones..actALHSpace..Caption
+#. fmEntornoDesarrollo..acciones..actALHSpace..Hint
+#: uFmPrincipal.dfm:1239
+#: uFmPrincipal.dfm:1241
+msgid "Igualar espaciado horizontal"
+msgstr "Equal horizontal space"
+
+#. fmEntornoDesarrollo..acciones..actALVSpace..Caption
+#. fmEntornoDesarrollo..acciones..actALVSpace..Hint
+#: uFmPrincipal.dfm:1248
+#: uFmPrincipal.dfm:1250
+msgid "Igualar espaciado vertical"
+msgstr "Equal vertical space"
+
+#. fmEntornoDesarrollo..acciones..actALHCenter..Caption
+#. fmEntornoDesarrollo..acciones..actALHCenter..Hint
+#: uFmPrincipal.dfm:1257
+#: uFmPrincipal.dfm:1259
+msgid "Centrar horizontalmente"
+msgstr "Horizontal center"
+
+#. fmEntornoDesarrollo..acciones..actALVCenter..Caption
+#. fmEntornoDesarrollo..acciones..actALVCenter..Hint
+#: uFmPrincipal.dfm:1266
+#: uFmPrincipal.dfm:1268
+msgid "Centrar verticalmente"
+msgstr "Vertical Center"
+
+#. fmEntornoDesarrollo..acciones..actALHCenterWindow..Caption
+#. fmEntornoDesarrollo..acciones..actALHCenterWindow..Hint
+#: uFmPrincipal.dfm:1275
+#: uFmPrincipal.dfm:1277
+msgid "Centrar horizontalmente en formulario"
+msgstr "Horizontal Center to Form"
+
+#. fmEntornoDesarrollo..acciones..actALVCenterWindow..Caption
+#. fmEntornoDesarrollo..acciones..actALVCenterWindow..Hint
+#: uFmPrincipal.dfm:1284
+#: uFmPrincipal.dfm:1286
+msgid "Centrar verticalmente en formulario"
+msgstr "Vertical Center to Form"
+
+#. fmEntornoDesarrollo..menu..Edicin1..Caption
+#: uFmPrincipal.dfm:1314
+msgid "&Edición"
+msgstr "&Edition"
+
+#. fmEntornoDesarrollo..menu..Edicin1..Separador1..Caption
+#. fmEntornoDesarrollo..menu..Edicin1..mSeparador2..Caption
+#. fmEntornoDesarrollo..menu..Ver1..N1..Caption
+#: uFmPrincipal.dfm:1322
+#: uFmPrincipal.dfm:1337
+#: uFmPrincipal.dfm:1352
+msgid "-"
+msgstr "-"
+
+#. fmEntornoDesarrollo..menu..Ayuda1..Caption
+#: uFmPrincipal.dfm:1386
+msgid "A&yuda"
+msgstr "&Help"
+
+#. fmEntornoDesarrollo..abrir..DefaultExt
+#: uFmPrincipal.dfm:1390
+msgid "*.xml"
+msgstr "*.xml"
+
+#. fmEntornoDesarrollo..guardar..DefaultExt
+#: uFmPrincipal.dfm:1394
+msgid ".xml"
+msgstr ".xml"
+
+#. fmEntornoDesarrollo..guardar..Filter
+#: uFmPrincipal.dfm:1395
+#: uFmPrincipal.pas:186
+#: uFmPrincipal.pas:538
+msgid "Proyecto ARPI (*.xml)|*.xml|Todos los Archivos (*.*)|*.*"
+msgstr "ARPI Project (*.xml)|*.xml|All Files (*.*)|*.*"
+
+#. fmShrinkPanel..Caption
+#: ufmShrinkPanel.dfm:8
+msgid "Formulario"
+msgstr "Design Form"
+
+#. fmShrinkPanel..Panel2..btnEjecutar..Caption
+#: ufmShrinkPanel.dfm:167
+msgid "Ejecutar"
+msgstr "Execute"
+
+#. fmShrinkPanel..Panel2..btnGuardar..Caption
+#: ufmShrinkPanel.dfm:199
+msgid "Guardar"
+msgstr "Save"
+
+#. fmShrinkPanel..TabControl....Tabs.Strings
+#: ufmShrinkPanel.dfm:232
+msgid "Básicos"
+msgstr "Basic"
+
+#. fmShrinkPanel..TabControl....Tabs.Strings
+#: ufmShrinkPanel.dfm:233
+msgid "Avanzados"
+msgstr "Advanced"
+
+#. fmStringIdiomaDlg..Caption
+#: ufmStringIdiomaDlg.dfm:7
+msgid "fmStringIdiomaDlg"
+msgstr "fmStringIdiomaDlg"
+
+#. fmStringIdiomaDlg..selectorIdioma..btOk..Caption
+#. fmStringsIdiomaDlg..selectorIdioma..btOk..Caption
+#: ufmStringIdiomaDlg.dfm:49
+#: ufmStringsIdiomaDlg.dfm:40
+msgid "btOk"
+msgstr "btOk"
+
+#. fmStringIdiomaDlg..selectorIdioma..btCancel..Caption
+#. fmStringsIdiomaDlg..selectorIdioma..btCancel..Caption
+#: ufmStringIdiomaDlg.dfm:61
+#: ufmStringsIdiomaDlg.dfm:52
+msgid "btCancel"
+msgstr "btCancel"
+
+#. fmStringsIdiomaDlg..Caption
+#: ufmStringsIdiomaDlg.dfm:7
+msgid "fmStringsIdiomaDlg"
+msgstr "fmStringsIdiomaDlg"
+
+#. fmStringsIdiomaDlg..selectorIdioma..txtEditor....Lines.Strings
+#: ufmStringsIdiomaDlg.dfm:63
+msgid "txtEditor"
+msgstr "txtEditor"
+
+#. frmCompilador..lbNombre..Caption
+#: ufrmCompilador.dfm:17
+msgid "Nombre"
+msgstr "Name"
+
+#. frmCompilador..lbLenguaje..Caption
+#: ufrmCompilador.dfm:24
+msgid "Lenguaje"
+msgstr "Language"
+
+#. frmCompilador..lbLineaComandos..Caption
+#: ufrmCompilador.dfm:31
+msgid "Línea de Comandos"
+msgstr "Command Line"
+
+#. frmCompilador..txtNombre..Text
+#: ufrmCompilador.dfm:40
+msgid "txtNombre"
+msgstr "txtNombre"
+
+#. frmCompilador..txtLineaComandos....Lines.Strings
+#: ufrmCompilador.dfm:60
+msgid "txtLineaComandos"
+msgstr "txtLineaComandos"
+
+#. frmCompilador..btCancelar..Caption
+#: ufrmCompilador.dfm:80
+msgid "&Cancelar"
+msgstr "&Cancel"
+
+#. frmDescripcion..lbAutor..Caption
+#: ufrmDescripcion.dfm:15
+msgid "Autor/es"
+msgstr "Author/s"
+
+#. frmDescripcion..lbDescricion..Caption
+#: ufrmDescripcion.dfm:22
+msgid "Descripción Acotada"
+msgstr "Resumed Description"
+
+#. frmDescripcion..lbContacto..Caption
+#: ufrmDescripcion.dfm:29
+msgid "Formas de Contacto"
+msgstr "Contact Information"
+
+#. frmDescripcion..lbExlicacion..Caption
+#: ufrmDescripcion.dfm:36
+msgid "Descripción Completa"
+msgstr "Full Description"
+
+#. frmDescripcion..txtExplicacion....Lines.Strings
+#: ufrmDescripcion.dfm:61
+msgid "uno"
+msgstr "one"
+
+#. frmDescripcion..txtExplicacion....Lines.Strings
+#: ufrmDescripcion.dfm:62
+msgid "dos"
+msgstr "two"
+
+#. frmDescripcion..txtExplicacion....Lines.Strings
+#: ufrmDescripcion.dfm:63
+msgid "tres 2"
+msgstr "three 2"
+
+#: uFmPrincipal.pas:185
+msgid "Abrir Proyecto ARPI"
+msgstr "Open ARPI Project"
+
+#: uFmPrincipal.pas:215
+msgid "Compilar"
+msgstr "Compile"
+
+#. Creo y cargo la paleta de componentes
+#: uFmPrincipal.pas:506
+msgid "Estandar"
+msgstr "Standard"
+
+#: uFmPrincipal.pas:507
+msgid "Imagen"
+msgstr "Image"
+
+#: uFmPrincipal.pas:537
+msgid "Guardar Proyecto ARPI"
+msgstr "Save ARPI Project"
+
